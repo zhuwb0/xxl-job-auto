@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-admin/xxl-job-admin.iml" filepath="$PROJECT_DIR$/xxl-job-admin/xxl-job-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-auto.iml" filepath="$PROJECT_DIR$/xxl-job-auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-core/xxl-job-core.iml" filepath="$PROJECT_DIR$/xxl-job-core/xxl-job-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-sample-springboot/xxl-job-executor-sample-springboot.iml" filepath="$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-sample-springboot/xxl-job-executor-sample-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-samples.iml" filepath="$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-samples.iml" />
+    </modules>
+  </component>
+</project>
